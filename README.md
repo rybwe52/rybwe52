@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1> Hii!!! I am Alex Khan From Unitedi States</h1>
 
-<!--
-**rybwe52/rybwe52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is a demo Bio of me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+This is a demo Bio of me
+
+
+
